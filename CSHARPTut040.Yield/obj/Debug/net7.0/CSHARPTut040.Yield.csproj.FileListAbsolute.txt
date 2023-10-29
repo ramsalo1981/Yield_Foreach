@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\refint\CSHARPTut040.Yield.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\ref\CSHARPTut040.Yield.dll

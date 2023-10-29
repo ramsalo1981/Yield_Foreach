@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\bin\Debug\net7.0\CSHARPTut040.Foreach.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\bin\Debug\net7.0\CSHARPTut040.Foreach.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\bin\Debug\net7.0\CSHARPTut040.Foreach.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\bin\Debug\net7.0\CSHARPTut040.Foreach.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\bin\Debug\net7.0\CSHARPTut040.Foreach.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\CSHARPTut040.Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\CSHARPTut040.Foreach.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\CSHARPTut040.Foreach.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\CSHARPTut040.Foreach.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\CSHARPTut040.Foreach.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\refint\CSHARPTut040.Foreach.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\CSHARPTut040.Foreach.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\CSHARPTut040.Foreach.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSHARPTut040\CSHARPTut040.Foreach\obj\Debug\net7.0\ref\CSHARPTut040.Foreach.dll
